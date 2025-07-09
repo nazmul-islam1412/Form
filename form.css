@@ -1,0 +1,27 @@
+.body{
+    background-color: darkslateblue;
+}
+.body h2{
+    color: aliceblue;
+    text-align: center;
+}
+.fieldset{
+    background-color: rgba(255, 255, 255, 0.1);
+border: none;
+border-radius: 5px;
+color: aliceblue;
+padding: 50px;
+}
+.input{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 4px;
+    border: none;
+    height: 30px;
+    width: 380px;
+}
+.button{
+    background-color: aliceblue;
+    border-radius: 4px;
+    border: none;
+}
